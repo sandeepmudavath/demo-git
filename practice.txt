@@ -1,0 +1,10 @@
+Git : commands
+      git hub :
+      bitbucket:
+RxJS,ngRX
+ngforms
+ngMaterial
+Spec test 
+
+
+
